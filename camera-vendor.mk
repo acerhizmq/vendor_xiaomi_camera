@@ -42,7 +42,11 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/camera/proprietary/system/lib64/libcamera_wideselfie_mpbase.so:$(TARGET_COPY_OUT_SYSTEM)/priv-app/MiuiCamera/lib/arm64/libcamera_wideselfie_mpbase.so \
     vendor/xiaomi/camera/proprietary/system/lib64/libdmabufheap.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libdmabufheap.so \
     vendor/xiaomi/camera/proprietary/system/lib64/libdmabufheap.so:$(TARGET_COPY_OUT_SYSTEM)/priv-app/MiuiCamera/lib/arm64/libdmabufheap.so \
+    vendor/xiaomi/camera/proprietary/system/lib64/libc++_shared.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libc++_shared.so \
+    vendor/xiaomi/camera/proprietary/system/lib64/libc++_shared.so:$(TARGET_COPY_OUT_SYSTEM)/priv-app/MiuiCamera/lib/arm64/libc++_shared.so \
     vendor/xiaomi/camera/proprietary/system/lib64/libfenshen_apu_v3.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libfenshen_apu_v3.so \
+    vendor/xiaomi/camera/proprietary/system/lib64/libc++_shared.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libc++_shared.so \
+    vendor/xiaomi/camera/proprietary/system/lib64/libc++_shared.so:$(TARGET_COPY_OUT_SYSTEM)/priv-app/MiuiCamera/lib/arm64/libc++_shared.so \
     vendor/xiaomi/camera/proprietary/system/lib64/libfenshen_apu_v3.so:$(TARGET_COPY_OUT_SYSTEM)/priv-app/MiuiCamera/lib/arm64/libfenshen_apu_v3.so \
     vendor/xiaomi/camera/proprietary/system/lib64/libfenshen_apu_v4.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libfenshen_apu_v4.so \
     vendor/xiaomi/camera/proprietary/system/lib64/libfenshen_apu_v4.so:$(TARGET_COPY_OUT_SYSTEM)/priv-app/MiuiCamera/lib/arm64/libfenshen_apu_v4.so \
