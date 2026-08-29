@@ -39,7 +39,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/camera/proprietary/system/lib64/libcamera_mialgo_ambilight.so:$(TARGET_COPY_OUT_SYSTEM)/priv-app/MiuiCamera/lib/arm64/libcamera_mialgo_ambilight.so \
     vendor/xiaomi/camera/proprietary/system/lib64/libcamera_wideselfie_mpbase.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libcamera_wideselfie_mpbase.so \
     vendor/xiaomi/camera/proprietary/system/lib64/libcamera_wideselfie_mpbase.so:$(TARGET_COPY_OUT_SYSTEM)/priv-app/MiuiCamera/lib/arm64/libcamera_wideselfie_mpbase.so \
-    vendor/xiaomi/camera/proprietary/system/lib64/libdmabufheap.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libdmabufheap.so \
     vendor/xiaomi/camera/proprietary/system/lib64/libdmabufheap.so:$(TARGET_COPY_OUT_SYSTEM)/priv-app/MiuiCamera/lib/arm64/libdmabufheap.so \
     vendor/xiaomi/camera/proprietary/system/lib64/libc++_shared.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libc++_shared.so \
     vendor/xiaomi/camera/proprietary/system/lib64/libc++_shared.so:$(TARGET_COPY_OUT_SYSTEM)/priv-app/MiuiCamera/lib/arm64/libc++_shared.so \
@@ -55,7 +54,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/camera/proprietary/system/lib64/libfuai.so:$(TARGET_COPY_OUT_SYSTEM)/priv-app/MiuiCamera/lib/arm64/libfuai.so \
     vendor/xiaomi/camera/proprietary/system/lib64/libinception_video.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libinception_video.so \
     vendor/xiaomi/camera/proprietary/system/lib64/libinception_video.so:$(TARGET_COPY_OUT_SYSTEM)/priv-app/MiuiCamera/lib/arm64/libinception_video.so \
-    vendor/xiaomi/camera/proprietary/system/lib64/libion.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libion.so \
     vendor/xiaomi/camera/proprietary/system/lib64/libion.so:$(TARGET_COPY_OUT_SYSTEM)/priv-app/MiuiCamera/lib/arm64/libion.so \
     vendor/xiaomi/camera/proprietary/system/lib64/libjni_arcsoft_beautyshot.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libjni_arcsoft_beautyshot.so \
     vendor/xiaomi/camera/proprietary/system/lib64/libjni_arcsoft_beautyshot.so:$(TARGET_COPY_OUT_SYSTEM)/priv-app/MiuiCamera/lib/arm64/libjni_arcsoft_beautyshot.so \
