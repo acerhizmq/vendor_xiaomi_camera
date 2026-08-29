@@ -22,7 +22,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/camera/proprietary/system/lib64/libaivs_jni.so:$(TARGET_COPY_OUT_SYSTEM)/priv-app/MiuiCamera/lib/arm64/libaivs_jni.so \
     vendor/xiaomi/camera/proprietary/system/lib64/libarcsoft_wideselfie.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libarcsoft_wideselfie.so \
     vendor/xiaomi/camera/proprietary/system/lib64/libarcsoft_wideselfie.so:$(TARGET_COPY_OUT_SYSTEM)/priv-app/MiuiCamera/lib/arm64/libarcsoft_wideselfie.so \
-    vendor/xiaomi/camera/proprietary/system/lib64/libc++.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libc++.so \
     vendor/xiaomi/camera/proprietary/system/lib64/libc++.so:$(TARGET_COPY_OUT_SYSTEM)/priv-app/MiuiCamera/lib/arm64/libc++.so \
     vendor/xiaomi/camera/proprietary/system/lib64/libcamera_ambilight_ambt_mtk.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libcamera_ambilight_ambt_mtk.so \
     vendor/xiaomi/camera/proprietary/system/lib64/libcamera_ambilight_ambt_mtk.so:$(TARGET_COPY_OUT_SYSTEM)/priv-app/MiuiCamera/lib/arm64/libcamera_ambilight_ambt_mtk.so \
@@ -45,8 +44,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/camera/proprietary/system/lib64/libc++_shared.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libc++_shared.so \
     vendor/xiaomi/camera/proprietary/system/lib64/libc++_shared.so:$(TARGET_COPY_OUT_SYSTEM)/priv-app/MiuiCamera/lib/arm64/libc++_shared.so \
     vendor/xiaomi/camera/proprietary/system/lib64/libfenshen_apu_v3.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libfenshen_apu_v3.so \
-    vendor/xiaomi/camera/proprietary/system/lib64/libc++_shared.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libc++_shared.so \
-    vendor/xiaomi/camera/proprietary/system/lib64/libc++_shared.so:$(TARGET_COPY_OUT_SYSTEM)/priv-app/MiuiCamera/lib/arm64/libc++_shared.so \
     vendor/xiaomi/camera/proprietary/system/lib64/libfenshen_apu_v3.so:$(TARGET_COPY_OUT_SYSTEM)/priv-app/MiuiCamera/lib/arm64/libfenshen_apu_v3.so \
     vendor/xiaomi/camera/proprietary/system/lib64/libfenshen_apu_v4.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libfenshen_apu_v4.so \
     vendor/xiaomi/camera/proprietary/system/lib64/libfenshen_apu_v4.so:$(TARGET_COPY_OUT_SYSTEM)/priv-app/MiuiCamera/lib/arm64/libfenshen_apu_v4.so \
