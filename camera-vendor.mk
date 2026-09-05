@@ -8,8 +8,6 @@ PRODUCT_SOONG_NAMESPACES += \
 PRODUCT_COPY_FILES += \
     vendor/xiaomi/camera/proprietary/system/lib64/libCNamaSDK.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libCNamaSDK.so \
     vendor/xiaomi/camera/proprietary/system/lib64/libCNamaSDK.so:$(TARGET_COPY_OUT_SYSTEM)/priv-app/MiuiCamera/lib/arm64/libCNamaSDK.so \
-    vendor/xiaomi/camera/proprietary/system/lib64/libDollyZoom.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libDollyZoom.so \
-    vendor/xiaomi/camera/proprietary/system/lib64/libDollyZoom.so:$(TARGET_COPY_OUT_SYSTEM)/priv-app/MiuiCamera/lib/arm64/libDollyZoom.so \
     vendor/xiaomi/camera/proprietary/system/lib64/libFUAuthHelper.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libFUAuthHelper.so \
     vendor/xiaomi/camera/proprietary/system/lib64/libFUAuthHelper.so:$(TARGET_COPY_OUT_SYSTEM)/priv-app/MiuiCamera/lib/arm64/libFUAuthHelper.so \
     vendor/xiaomi/camera/proprietary/system/lib64/libFUP2AHelper.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libFUP2AHelper.so \
